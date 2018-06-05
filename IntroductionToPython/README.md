@@ -116,7 +116,7 @@
 7. **随机网络论坛** - 有时候，搜索结果可能会生成一些自 2004 年左右就不再活跃的论坛。如果这些资源是唯一解决你的问题的资源，那么你应该重新思考下寻找解决方案的方式。
 
 ### 课程 6 和课程 7
-课程资源列表中文件
+<font color="red"><b>课程资源列表中文件，即课程中练习用到的文件</b></font>
 
 * [Male Completion Rate](https://s3.amazonaws.com/video.udacity-data.com/topher/2018/March/5a985a94_male-completion-rate/male-completion-rate.csv)
 * [Female Completion Rate](https://s3.amazonaws.com/video.udacity-data.com/topher/2018/March/5a985abf_female-completion-rate/female-completion-rate.csv)

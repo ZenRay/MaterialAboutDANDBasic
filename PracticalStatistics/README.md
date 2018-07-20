@@ -33,6 +33,9 @@
 
      > 处理的是双总体中比例差异问题。公式：$Z=\frac{(\hat{p_1}-\hat{p_2})-(p_1-p_2)}{\sqrt{\hat{p}*(1-\hat{p})*(\frac{1}{n_1}+\frac{1}{n_2})}}$，其中合并比例 $\hat{p}=\frac{Y_1+Y_2}{n_1+n_2}$，公式中需要注意$p_1-p_2$ 的值可能是 $0$ ，也可能是其他值，这是需要根据试验判定，最好的可能是根据试验假设 $H_0$ 来判断该值
 
+   * [单样本 z 检验](https://stattrek.com/statistics/dictionary.aspx?definition=one-sample%20z-test)
+
+     > 被用于检验总体的参数的假设检验是否具有统计显著性差异
 
 
 ## [课程练习](./课程练习)
@@ -45,8 +48,6 @@
 
 
 
+### 课程13.10 指标——注册率
 
-
-
-
-
+* 答案：`course_page_actions.csv`, `enrollment_rate.ipynb`

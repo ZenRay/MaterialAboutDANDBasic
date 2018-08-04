@@ -42,9 +42,10 @@
 
 ### 课程12 假设检验
 
-1. [15 Notebook+ 练习：模拟零假设](./课程练习)
+* [10-data](课程练习/10-data.zip) 	本小节练习用数据
+* [10-hypothesis-testing](课程练习/10-hypothesis-testing.zip) 本小节练习
 
-   文件：`coffee_dataset.csv`,`Simulating_from_the_Null-zh.ipynb`
+
 
 
 

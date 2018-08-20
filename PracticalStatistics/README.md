@@ -40,15 +40,26 @@
 
 ## [课程练习](./课程练习)
 
+### 课程 11 置信区间
+
+* [09-confidence-intervals](课程练习/09-confidence-intervals.zip) 本小节练习
+* [09-data ](课程练习/09-data.zip) 本小节练习用数据
+
 ### 课程12 假设检验
 
 * [10-data](课程练习/10-data.zip) 	本小节练习用数据
 * [10-hypothesis-testing](课程练习/10-hypothesis-testing.zip) 本小节练习
 
+### 课程 13 案例研究：A/B 测试
 
+* [notebook-solutions](课程练习/notebook-solutions.zip) 本小节练习
 
+### 课程 14 线性回归
 
+* [12-data](课程练习/12-data.zip) 数据
 
-### 课程13.10 指标——注册率
+  [12-regression](课程练习/12-regression.zip) 练习
 
-* 答案：`course_page_actions.csv`, `enrollment_rate.ipynb`
+## [项目材料](./项目材料/)
+
+* [analyzeabtestresults](项目材料/analyzeabtestresults.zip) 项目材料文件

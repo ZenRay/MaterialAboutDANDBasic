@@ -56,112 +56,113 @@
 
 #### 课程1.10 数据集问题
 
-[课程1.10数据集问题](练习材料/课程1.10数据集问题)
+[课程1.10数据集问题](练习材料/)
+
+* 练习材料内容`1.10questions.ipynb`
 
 #### 课程1.13 阅读 CSV 文件
 [阅读 CSV 文件](./练习材料/)
 
-* 练习材料内容`reading_csv-zh.ipynb`
-* 答案文件` Reading-Csv-Solutions.ipynb`
+* 练习材料内容`1.13reading_csv-zh.ipynb`
+* 答案文件` 1.13Reading-Csv-Solutions.ipynb`
 
 #### 课程1.14 评估和理解
 [评估和理解](./练习材料/)
 
-* 练习：`assessing-zh.ipynb`
-* 答案：`assessing-zh-solution.ipynb`
+* 练习：`1.14assessing-zh.ipynb`
+* 答案：`1.14assessing-solutions.ipynb`
 
 #### 课程 1.15 评估和理解练习
 
 [评估和理解练习](./练习材料/)
 
-* 练习：`assessing_quiz.ipynb`
+* 练习：`1.15assessing_quiz.ipynb`
 
-  
 
 #### 课程1.18 清理练习
 
 [清理练习](./练习材料)
 
-* 练习：`cleaning_practice-zh.ipynb`
-* 答案：`cleaning_practice-zh-solution.ipynb`
+* 练习：`1.18cleaning_practice-zh.ipynb`
+* 答案：`1.18cleaning_practice-zh-solution.ipynb`
 
 #### 课程1.21 用可视化探索数据
 
 [用可视化探索数据](./练习材料/)
 
-* 练习：`visuals_quiz-zh.ipynb`
-* 答案：`visuals-quiz-solutions.ipynb`
+* 练习：`1.21visuals_quiz-zh.ipynb`
+* 答案：`1.21visuals-quiz-solutions.ipynb`
 
 #### 课程1.24 练习：得出结论
 
 [练习得出结论](./练习材料)
 
-* 练习：`conclusions_quiz-zh.ipynb`
-* 答案：`conclusions-quiz-solutions.ipynb`
+* 练习：`1.24conclusions_quiz-zh.ipynb`
+* 答案：`1.24conclusions-quiz-solutions.ipynb`
 
 #### 课程1.27 练习：传达结果
 
 [练习传达结果](./练习材料)
 
-* 练习：`communicate_quiz-zh.ipynb`
-* 答案：`communicate-quiz-solutions.ipynb`
+* 练习：`1.27communicate_quiz-zh.ipynb`
+* 答案：`1.27communicate-quiz-solutions.ipynb`
 
 #### 课程2.5 评估数据
 
-[评估数据](练习材料/课程2)
+[评估数据](练习材料/)
 
-* 练习：`assessing.ipynb`
-* 答案：`assessing_solution.ipynb`
+* 练习：`2.5assessing.ipynb`
+* 答案：`2.5assessing_solutions.ipynb`
 
 #### 课程2.7 附加数据
 
-[附加数据](练习材料/课程2)
+[附加数据](练习材料/)
 
-* 练习：`appending-zh.ipynb`
-* 答案： `appending_solution.ipynb`
+* 练习：`2.10appending-zh.ipynb`
+* 答案： `2.7appending_solution.ipynb`
 
 #### 课程2.10 附加数据（续）
 
-[附加数据](练习材料/课程2)
+[附加数据](练习材料/)
 
-- 练习：`appending-zh.ipynb`
-- 答案： `appending-solution.ipynb`
+- 练习：`2.10appending-zh.ipynb`
+- 答案： `2.10appending-solution.ipynb`
 
 #### 课程2.11 使用可视化探索数据
 
-[使用可视化探索数据](练习材料/课程2)
+[使用可视化探索数据](练习材料)
 
-* 练习：`eda_visuals-zh.ipynb`
+* 练习：`2.11eda_visuals-zh.ipynb`
 
 #### 课程2.13 使用 Groupby 得出结论
 
-[使用 groupby 的出结论](练习材料/课程2)
+[使用 groupby 的出结论](练习材料)
 
-* 练习：`conclusions_groupby-zh.ipynb`
-* 答案：`conclusions_groupby_solution.ipynb`
+* 练习：`2.13conclusions_groupby-zh.ipynb`
+* 答案：`2.13conclusions_groupby_solution.ipynb`
 
 #### 课程2.15 使用 Query 得出结论
 
-[使用Query得出结论](练习材料/课程2)
+[使用Query得出结论](练习材料/)
 
-* 练习：`conclusions_query-zh.ipynb`
-* 答案：`conclusions_query_solution.ipynb`
+* 练习：`2.15conclusions_query-zh.ipynb`
+* 答案：`2.15conclusions_query_solution.ipynb`
 
 #### 课程2.18 Matplotlib 示例
 
-[Matplotlib 示例](练习材料/课程2)
+[Matplotlib 示例](练习材料/)
 
-* 练习：`matplotlib_example-zh.ipynb`
+* 练习：`2.18matplotlib_example-zh.ipynb`
 
 #### 课程2.19 使用 Matplotlib 绘图
 
-[使用 Matplotlib 绘图](练习材料/课程2)
+[使用 Matplotlib 绘图](练习材料/)
 
-- 练习：`wine_visualizations-zh.ipynb`、
+- 练习：`2.19wine_visualizations-zh.ipynb`、
 
 #### 课程2.20 使用 Matplotlib 绘制类型和质量图
 
-[使用 Matplotlib 绘制类型和质量图](练习材料/课程2)
+[使用 Matplotlib 绘制类型和质量图](练习材料/)
 
-* 练习： `plotting_type_quality-zh.ipynb`
+* 练习： `2.20plotting_type_quality-zh.ipynb`
 

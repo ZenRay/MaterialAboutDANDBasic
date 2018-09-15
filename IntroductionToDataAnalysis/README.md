@@ -166,3 +166,50 @@
 
 * 练习： `2.20plotting_type_quality-zh.ipynb`
 
+#### 课程3.5 评估数据
+
+[评估数据](练习材料/)
+
+* 练习：`3.5assessing.ipynb`
+
+#### 课程3.6 清理列标签
+
+[清理列标签](练习材料/)
+
+* 练习： `3.6cleaning_column_labels-zh.ipynb`
+* 答案：`3.6cleaning-column-labels.ipynb`
+
+#### 课程3.7 过滤、丢空、去重
+
+[过滤、丢空、去重](练习材料/)
+
+* 练习：`3.7query_filter-zh.ipynb`
+* 答案：`3.7query-filter.ipynb`
+
+#### 课程3.8 检查数据类型
+
+* 练习：`3.8inspect_datatypes.ipynb`
+
+#### 课程3.9-11 修正数据类型
+
+* 练习：`3.9fix_datatypes_cyl-zh.ipynb`, `3.10fix_datatypes_air_pollution-zh.ipynb`, `3.11fix_datatypes_mpg_greenhouse-zh.ipynb`
+* 答案：`3.9fix-datatypes-cyl.ipynb`, `3.10fix-datatypes-air-pollution.ipynb`,`3.11fix-datatypes-mpg-greenhouse.ipynb`
+
+#### 课程3.12 使用可视化探索数据
+
+* 练习：`3.12exploring_visuals.ipynb`
+
+#### 课程3.13 结论和可视展示
+
+* 练习： `3.13drawing_conclusions-zh.ipynb`
+* 答案：`3.13drawing-conclusions-solutions.ipynb`
+
+### 课程3.15 合并数据集
+
+* 练习： `3.15merging_data-zh.ipynb`
+* 答案：`3.15merging-data.ipynb`
+
+### 课程3.16 合并数据的结果
+
+* 练习： `3.16results_merged-zh.ipynb`
+

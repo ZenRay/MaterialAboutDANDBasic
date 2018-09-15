@@ -204,12 +204,23 @@
 * 练习： `3.13drawing_conclusions-zh.ipynb`
 * 答案：`3.13drawing-conclusions-solutions.ipynb`
 
-### 课程3.15 合并数据集
+#### 课程3.15 合并数据集
 
 * 练习： `3.15merging_data-zh.ipynb`
 * 答案：`3.15merging-data.ipynb`
 
-### 课程3.16 合并数据的结果
+#### 课程3.16 合并数据的结果
 
 * 练习： `3.16results_merged-zh.ipynb`
 
+
+
+### 项目材料
+
+* 项目笔记本模版：[investigate-a-dataset-zh.ipynb](项目材料/investigate-a-dataset-zh.ipynb)
+* 数据集：
+  * FBI 枪支数据：[ncis-and-census-data.zip](项目材料/ncis-and-census-data.zip)
+  * TMDb电影数据 ：[tmdb-movies.csv](项目材料/tmdb-movies.csv)
+  * 未前往就诊的挂号预约：[noshowappointments-kagglev2-may-2016.csv](项目材料/noshowappointments-kagglev2-may-2016.csv)
+  * 足球数据库：[database.sqlite.zip](项目材料/database.sqlite.zip)
+  * Gapminder World：相关数据需要在 [Gapminder World Data](https://www.gapminder.org/data/) 进行下载
